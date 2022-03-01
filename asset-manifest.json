@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JawadErfani01/Portfolio.github.io/static/css/main.02018370.css",
+    "main.js": "/JawadErfani01/Portfolio.github.io/static/js/main.96b43de0.js",
+    "index.html": "/JawadErfani01/Portfolio.github.io/index.html",
+    "main.02018370.css.map": "/JawadErfani01/Portfolio.github.io/static/css/main.02018370.css.map",
+    "main.96b43de0.js.map": "/JawadErfani01/Portfolio.github.io/static/js/main.96b43de0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02018370.css",
+    "static/js/main.96b43de0.js"
+  ]
+}
